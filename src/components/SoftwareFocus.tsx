@@ -3,7 +3,7 @@ import freepikLogo from "@/assets/freepik.png";
 import runwayLogo from "@/assets/runway.png";
 import photoshop from "@/assets/photoshop.png";
 import premiere from "@/assets/premiere.png"
-import after from "@/assets/Aftereffects.png"
+import after from "@/assets/aftereffects.png"
 
 const SoftwareFocus = () => {
   const software = [
