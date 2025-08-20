@@ -1,7 +1,7 @@
 import openartLogo from "@/assets/openart.png";
 import freepikLogo from "@/assets/freepik.png";
 import runwayLogo from "@/assets/runway.png";
-import photoshop from "@/assets/Photoshop.png";
+import photoshop from "@/assets/photoshop.png";
 import premiere from "@/assets/premiere.png"
 import after from "@/assets/Aftereffects.png"
 
