@@ -63,12 +63,14 @@ const KeyBenefits = () => {
               </div>
             ))}
           </div>
-          <a target="_blank" href='https://pages.razorpay.com/pl_QfmPM7Lazjt6Y1/view'><button className="btn-hero group w-full lg:w-auto">
+          <div className="flex items-center gap-3 justify-center">
+            <a target="_blank" href='https://pages.razorpay.com/pl_QfmPM7Lazjt6Y1/view'><button className="btn-hero group w-full lg:w-auto">
                 <span className="flex items-center gap-3 justify-center">
                   Join Now
                   <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                 </span>
               </button></a>
+          </div>
         </div>
         
       </div>
